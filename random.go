@@ -3,8 +3,6 @@ package randomHelper
 import (
 	"fmt"
 	"sort"
-
-	"bitbucket.org/kidozteam/adstats/pkg/platform/fastrand64"
 )
 
 // modified version of https://github.com/milosgajdos/go-estimate/blob/511e405c965a7d58f6ce8d5e5fbf4f25618babad/rnd/rnd.go
